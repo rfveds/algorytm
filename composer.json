@@ -1,0 +1,5 @@
+{
+    "require": {
+        "davidgorges/color-contrast": "^1.0"
+    }
+}
